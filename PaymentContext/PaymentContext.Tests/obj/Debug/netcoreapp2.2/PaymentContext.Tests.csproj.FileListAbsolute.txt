@@ -1,0 +1,4 @@
+D:\Balta.io\Modelando Domínios Ricos\PaymentContext\PaymentContext.Tests\obj\Debug\netcoreapp2.2\PaymentContext.Tests.csprojAssemblyReference.cache
+D:\Balta.io\Modelando Domínios Ricos\PaymentContext\PaymentContext.Tests\obj\Debug\netcoreapp2.2\PaymentContext.Tests.csproj.CoreCompileInputs.cache
+D:\Balta.io\Modelando Domínios Ricos\PaymentContext\PaymentContext.Tests\obj\Debug\netcoreapp2.2\PaymentContext.Tests.AssemblyInfoInputs.cache
+D:\Balta.io\Modelando Domínios Ricos\PaymentContext\PaymentContext.Tests\obj\Debug\netcoreapp2.2\PaymentContext.Tests.AssemblyInfo.cs
